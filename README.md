@@ -1,4 +1,4 @@
-# LTSpiceSims
+# LTSpiceSims (WIP)
 This repository contains various LTSpice drafts I have worked on.
 
 ## Contents
